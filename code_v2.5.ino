@@ -14,8 +14,8 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 //the first parameter is the I2C address
 //the second parameter is how many rows are on your screen
 //the third parameter is how many columns are on your screen
-const char *ssid     = " ";
-const char *password = " ";
+const char *ssid     = "Your_SSID";
+const char *password = "Your_PASSWORD";
 
 WiFiUDP ntpUDP;
  
