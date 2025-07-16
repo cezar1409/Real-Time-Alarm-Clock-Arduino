@@ -1,4 +1,4 @@
-#Real-Time Alarm Clock 
+# Real-Time Alarm Clock 
 
 This project uses an ESP32 to create a Wi-Fi-synced alarm clock. It connects to an NTP server to get real-time updates and displays the current time and date on a 16x2 I2C LCD. Users can set an alarm using four buttons. When the set time is reached, a buzzer plays a melody until stopped.
 
